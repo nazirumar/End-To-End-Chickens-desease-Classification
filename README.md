@@ -16,3 +16,13 @@
 <li>Docker</li>
 <li>Final CI/CD Deployment</li>
 </u>
+
+
+#### Prerequisite
+
+<ol>
+<li>Python Programing (OOPs Concepts Required)</li>
+<li>Deep Learning - Object Classification Basic & Tensorflow </li>
+<li>AWS & Azure Account</li>
+<li>Your Dedication</li>
+</ol>
