@@ -1,0 +1,329 @@
+[2024-03-23 21:23:04,390: INFO: Welcome tomy custom logs]
+[2024-03-24 01:06:13,362: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:06:41,978: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:06:41,999: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:08:38,966: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:08:38,988: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:21:51,911: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:21:51,911: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:23:39,079: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:23:39,079: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:28:16,094: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:28:16,104: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:28:16,104: INFO: Creating Directory; a]
+[2024-03-24 01:28:16,112: INFO: Creating Directory; r]
+[2024-03-24 01:28:16,115: INFO: Creating Directory; t]
+[2024-03-24 01:28:16,115: INFO: Creating Directory; i]
+[2024-03-24 01:28:16,124: INFO: Creating Directory; f]
+[2024-03-24 01:28:16,137: INFO: Creating Directory; a]
+[2024-03-24 01:28:16,143: INFO: Creating Directory; c]
+[2024-03-24 01:28:16,147: INFO: Creating Directory; t]
+[2024-03-24 01:28:16,173: INFO: Creating Directory; s]
+[2024-03-24 01:28:16,224: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 01:29:11,880: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:29:11,888: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:29:11,888: INFO: Creating Directory; a]
+[2024-03-24 01:29:11,897: INFO: Creating Directory; r]
+[2024-03-24 01:29:11,902: INFO: Creating Directory; t]
+[2024-03-24 01:29:11,902: INFO: Creating Directory; i]
+[2024-03-24 01:29:11,902: INFO: Creating Directory; f]
+[2024-03-24 01:29:11,914: INFO: Creating Directory; a]
+[2024-03-24 01:29:11,914: INFO: Creating Directory; c]
+[2024-03-24 01:29:11,914: INFO: Creating Directory; t]
+[2024-03-24 01:29:11,922: INFO: Creating Directory; s]
+[2024-03-24 01:29:11,928: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 01:29:15,248: INFO: artifacts/data_ingestion/data.zip Download! with following infp: 
+Server: GitHub.com
+Date: Sun, 24 Mar 2024 00:29:18 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"1e5c611678cdfdf913d332f6097c80fd"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=4MNuEEQrhk6SuhOAX6X1z%2FZbhwpnu6XqKTQ8fC7VjOhwGoBzvO15B8IGBRPjc4iVMjet1%2Bze%2BduuXQ28wCBZDOsQ0l%2Fb5SgjhasjbHmljID7%2BRjzIiofGBxtLxtVWGs9B2wXIBTo5bmaSNZQWfnFdLnwEOx7rafL%2FWH2WCpJGHibw6v5Z3JwsBniMp6dMcYd8BEeDToHZoS8bDYo5tYW0FywJ9eguGM9rFfeHpF8nc4D8pdjkFdBacLgmUqXV2viK06M2uJXJ1KhD%2Fr8t%2BzgtA%3D%3D--FD9bbQx82FPCOY80--J06JtFidnEGZglP2fiuDQQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.259817469.1711240157; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 00:29:17 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 00:29:17 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: EDDD:28B9C9:98AA1:9B0EC:65FF73DD
+connection: close
+
+]
+[2024-03-24 01:29:15,264: INFO: File already exists of size 0.00 kb]
+[2024-03-24 01:34:24,861: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:34:24,876: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:34:24,884: INFO: Creating Directory; a]
+[2024-03-24 01:34:24,884: INFO: Creating Directory; r]
+[2024-03-24 01:34:24,892: INFO: Creating Directory; t]
+[2024-03-24 01:34:24,895: INFO: Creating Directory; i]
+[2024-03-24 01:34:24,902: INFO: Creating Directory; f]
+[2024-03-24 01:34:24,902: INFO: Creating Directory; a]
+[2024-03-24 01:34:24,902: INFO: Creating Directory; c]
+[2024-03-24 01:34:24,917: INFO: Creating Directory; t]
+[2024-03-24 01:34:24,917: INFO: Creating Directory; s]
+[2024-03-24 01:34:24,924: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 01:34:24,924: INFO: File already exists of size 146.00 kb]
+[2024-03-24 01:36:36,152: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:36:36,160: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:36:36,160: INFO: Creating Directory; a]
+[2024-03-24 01:36:36,235: INFO: Creating Directory; r]
+[2024-03-24 01:36:36,235: INFO: Creating Directory; t]
+[2024-03-24 01:36:36,268: INFO: Creating Directory; i]
+[2024-03-24 01:36:36,278: INFO: Creating Directory; f]
+[2024-03-24 01:36:36,288: INFO: Creating Directory; a]
+[2024-03-24 01:36:36,298: INFO: Creating Directory; c]
+[2024-03-24 01:36:36,304: INFO: Creating Directory; t]
+[2024-03-24 01:36:36,307: INFO: Creating Directory; s]
+[2024-03-24 01:36:36,311: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 01:36:39,492: INFO: artifacts/data_ingestion/data.zip Download! with following infp: 
+Server: GitHub.com
+Date: Sun, 24 Mar 2024 00:36:42 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"513e5365ffc3de767be231a380476a4f"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=hY%2BCCoCwdfhZXLReCGQJwUYlO74elbBXryGgBzkPFeonnOFByQBMVNwL8aQzGVFN%2BXVSUhUfBfPwQqqEo9LfnI%2BY48kw%2FDQwaOJ5M9BkMwsIow%2F1K3KmjBmKVRg3%2BisDkRDtmRZnANq5FTDy5bXVL9o3ctj5W9Jef5KnViwWCvOwuu3XFJ6i0PD6iBnB80%2F1lkjJmvpaMNrXR8m9MzazboHpwE89Yo1lJ%2FxXj0xwLkYXoqSPK2ZWTFEMpxuCbzzjVyRW%2FjY0mECosloDJae8Aw%3D%3D--s76EdB4Vu%2BNBX%2Fqr--aufCaEV%2F5qi3wRHI4TMTPA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.820911615.1711240602; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 00:36:42 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 00:36:42 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 4C8E:2A169:7B050:7D124:65FF759A
+connection: close
+
+]
+[2024-03-24 01:38:44,416: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 01:38:44,416: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 01:38:44,424: INFO: Creating Directory; a]
+[2024-03-24 01:38:44,430: INFO: Creating Directory; r]
+[2024-03-24 01:38:44,433: INFO: Creating Directory; t]
+[2024-03-24 01:38:44,433: INFO: Creating Directory; i]
+[2024-03-24 01:38:44,441: INFO: Creating Directory; f]
+[2024-03-24 01:38:44,441: INFO: Creating Directory; a]
+[2024-03-24 01:38:44,441: INFO: Creating Directory; c]
+[2024-03-24 01:38:44,450: INFO: Creating Directory; t]
+[2024-03-24 01:38:44,455: INFO: Creating Directory; s]
+[2024-03-24 01:38:44,455: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 01:38:44,455: INFO: File already exists of size 146.00 kb]
+[2024-03-24 07:17:18,949: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 07:17:18,955: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 07:17:18,963: INFO: Creating Directory; a]
+[2024-03-24 07:17:18,963: INFO: Creating Directory; r]
+[2024-03-24 07:17:18,973: INFO: Creating Directory; t]
+[2024-03-24 07:17:18,973: INFO: Creating Directory; i]
+[2024-03-24 07:17:18,979: INFO: Creating Directory; f]
+[2024-03-24 07:17:18,979: INFO: Creating Directory; a]
+[2024-03-24 07:17:18,989: INFO: Creating Directory; c]
+[2024-03-24 07:17:18,989: INFO: Creating Directory; t]
+[2024-03-24 07:17:18,989: INFO: Creating Directory; s]
+[2024-03-24 07:17:18,997: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 07:17:18,997: INFO: File already exists of size 146.00 kb]
+[2024-03-24 07:18:14,889: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 07:18:14,897: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 07:18:14,906: INFO: Creating Directory; a]
+[2024-03-24 07:18:14,906: INFO: Creating Directory; r]
+[2024-03-24 07:18:14,912: INFO: Creating Directory; t]
+[2024-03-24 07:18:14,912: INFO: Creating Directory; i]
+[2024-03-24 07:18:14,912: INFO: Creating Directory; f]
+[2024-03-24 07:18:14,922: INFO: Creating Directory; a]
+[2024-03-24 07:18:14,922: INFO: Creating Directory; c]
+[2024-03-24 07:18:14,930: INFO: Creating Directory; t]
+[2024-03-24 07:18:14,930: INFO: Creating Directory; s]
+[2024-03-24 07:18:14,941: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 07:18:14,948: INFO: File already exists of size 146.00 kb]
+[2024-03-24 07:18:38,396: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 07:18:38,396: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 07:18:38,406: INFO: Creating Directory; a]
+[2024-03-24 07:18:38,406: INFO: Creating Directory; r]
+[2024-03-24 07:18:38,414: INFO: Creating Directory; t]
+[2024-03-24 07:18:38,414: INFO: Creating Directory; i]
+[2024-03-24 07:18:38,422: INFO: Creating Directory; f]
+[2024-03-24 07:18:38,422: INFO: Creating Directory; a]
+[2024-03-24 07:18:38,430: INFO: Creating Directory; c]
+[2024-03-24 07:18:38,430: INFO: Creating Directory; t]
+[2024-03-24 07:18:38,430: INFO: Creating Directory; s]
+[2024-03-24 07:18:38,439: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 07:18:38,439: INFO: File already exists of size 146.00 kb]
+[2024-03-24 07:20:09,527: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 07:20:09,527: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 07:20:09,527: INFO: Creating Directory; a]
+[2024-03-24 07:20:09,540: INFO: Creating Directory; r]
+[2024-03-24 07:20:09,547: INFO: Creating Directory; t]
+[2024-03-24 07:20:09,547: INFO: Creating Directory; i]
+[2024-03-24 07:20:09,556: INFO: Creating Directory; f]
+[2024-03-24 07:20:09,562: INFO: Creating Directory; a]
+[2024-03-24 07:20:09,564: INFO: Creating Directory; c]
+[2024-03-24 07:20:09,574: INFO: Creating Directory; t]
+[2024-03-24 07:20:09,582: INFO: Creating Directory; s]
+[2024-03-24 07:20:09,582: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 07:20:12,623: INFO: artifacts/data_ingestion/data.zip Download! with following infp: 
+Server: GitHub.com
+Date: Sun, 24 Mar 2024 06:20:16 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"d0d4cb73baef5a8303ceb0295c4eb4a5"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=%2BJ%2FSZVz6JMZaK0%2F4yofxNxDBcHRPZDqviW7Dx8m8ppGG6i4epJueQEkUM2xO7Mg%2BD0ird5Wqx%2BqcfwFXLRc2GEXYx6gsxvQ6%2FiF1fWqaZUNCY8bXVBXHtDP8QNaRD1pO8hjCgefgWjxoP%2BFu3oySvIpaSLhlFnBS%2FXe%2FKG1JR5vg1SaygJz5PhuGqy7fTWHFAZ1UKKx%2FO3PQlPsirXGUY1rLkf7e15NjlwczJFWSckvNWVWVDOCP6LIr5higTCYf%2BZBr%2BiMWlORo01I9ck2dmw%3D%3D--jQWVar5vZGJn9Gy7--11aJ69BTJ8W02VLQVWq74w%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2028967849.1711261216; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 06:20:16 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 06:20:16 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: CE7B:1B382D:109AFBD:10D55BA:65FFC61F
+connection: close
+
+]
+[2024-03-24 11:34:19,340: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-24 11:34:19,364: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 11:34:19,364: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 11:34:19,364: INFO: Creating Directory; artifacts]
+[2024-03-24 11:34:19,364: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 11:34:20,335: ERROR: <urlopen error [Errno 11001] getaddrinfo failed>]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 1298, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 1344, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 1293, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 1052, in _send_output
+    self.send(msg)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 990, in send
+    self.connect()
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 1463, in connect
+    super().connect()
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\http\client.py", line 956, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\socket.py", line 827, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 12, in <module>
+    data_ingestion.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\data_ingestion.py", line 18, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+[2024-03-24 11:35:22,049: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-24 11:35:22,049: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 11:35:22,049: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 11:35:22,066: INFO: Creating Directory; artifacts]
+[2024-03-24 11:35:22,069: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 11:35:26,176: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Server: GitHub.com
+Date: Sun, 24 Mar 2024 10:35:25 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"c33d3be03adaaee972488a2bdd9a55d5"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=z3eWk5Qes2D2iSYDU8lT39uIqiPnM5NVjnpVhXO2LRWjLoBLl728h9LkoA9cnRPBiKvfqDHH1MjHc3HVD%2B0CHI6c4Rhx2TldwS%2FEfOQ5WBnWYEhyYi9CX3x6jWrsr9sB1C1OTclaK%2F3lwUtm3njY4zX5d605bcDzhJaIUxOMkdriU9XJLcyZ8b6W5ot90GORqtTHSLsKBr%2FgvAYw%2BiEdm7WhiL8Qf5iOayVnaqbwKU5k6d%2BtyWWIsmTWhmOif%2BMU8lQ0ZbVfXjGy5E4NY797JA%3D%3D--CXvBij%2FSWdEbFQJy--G8%2B6hSbCstVFCdwj4px%2FZA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1216864388.1711276524; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 10:35:24 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 24 Mar 2025 10:35:24 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 746C:150E6D:26C5DA6:2740A25:660001EC
+connection: close
+
+]
+[2024-03-24 11:35:26,826: ERROR: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 12, in <module>
+    data_ingestion.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 17, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\data_ingestion.py", line 49, in extract_zip_file
+    with ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\zipfile.py", line 1304, in __init__
+    self._RealGetContents()
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\zipfile.py", line 1371, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-03-24 11:38:45,415: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-24 11:38:45,456: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 11:38:45,462: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 11:38:45,462: INFO: Creating Directory; artifacts]
+[2024-03-24 11:38:45,462: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 11:38:52,143: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 48E8:36CAF6:40F5515:43DFC20:660002B6
+Accept-Ranges: bytes
+Date: Sun, 24 Mar 2024 10:38:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad2200089-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711276728.398675,VS0,VE737
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8c06b7872f7a0678a0c7f79a09bbd657d20260a2
+Expires: Sun, 24 Mar 2024 10:43:49 GMT
+Source-Age: 0
+
+]
+[2024-03-24 11:38:53,626: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
