@@ -327,3 +327,62 @@ Source-Age: 0
 [2024-03-24 11:38:53,626: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
 
 x==========x]
+[2024-03-24 12:06:32,184: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:06:32,292: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:06:32,402: INFO: Creating Directory; artifacts]
+[2024-03-24 12:06:32,407: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-24 12:07:59,806: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:07:59,821: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:07:59,821: INFO: Creating Directory; artifacts]
+[2024-03-24 12:07:59,834: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-24 12:11:11,890: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:11:11,902: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:11:11,910: INFO: Creating Directory; artifacts]
+[2024-03-24 12:11:11,913: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-24 12:11:31,270: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-24 12:11:31,887: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-24 12:28:10,984: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-24 12:28:10,984: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:28:10,984: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:28:10,984: INFO: Creating Directory; artifacts]
+[2024-03-24 12:28:10,984: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-24 12:29:16,970: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 48E8:36CAF6:40F5515:43DFC20:660002B6
+Accept-Ranges: bytes
+Date: Sun, 24 Mar 2024 11:28:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22041-MAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711279694.268281,VS0,VE166
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: be836516189420049c1a36b3d33598dc91ab98a9
+Expires: Sun, 24 Mar 2024 11:33:14 GMT
+Source-Age: 0
+
+]
+[2024-03-24 12:29:18,273: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-24 12:29:18,273: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-24 12:29:18,296: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:29:18,314: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:29:18,319: INFO: Creating Directory; artifacts]
+[2024-03-24 12:29:18,334: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-24 12:29:19,729: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-24 12:29:20,185: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-24 12:29:20,555: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
