@@ -386,3 +386,965 @@ x==========x]
 [2024-03-24 12:29:20,555: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
 
 x==========x]
+[2024-03-24 12:41:32,787: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:41:32,825: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:41:32,829: INFO: Creating Directory; artifacts]
+[2024-03-24 12:41:32,836: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 12:41:32,845: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 12:46:12,980: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 12:46:12,988: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 12:46:12,996: INFO: Creating Directory; artifacts]
+[2024-03-24 12:46:12,998: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 12:46:12,998: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 13:05:16,499: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 13:05:16,514: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 13:05:16,520: INFO: Creating Directory; artifacts]
+[2024-03-24 13:05:16,528: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 13:05:16,532: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 13:17:06,876: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 13:17:06,897: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 13:17:06,901: INFO: Creating Directory; artifacts]
+[2024-03-24 13:17:06,901: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 13:17:06,911: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 23:51:58,440: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 23:51:58,509: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 23:51:58,549: INFO: Creating Directory; artifacts]
+[2024-03-24 23:51:58,557: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 23:51:58,557: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 23:57:07,219: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 23:57:07,230: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 23:57:07,236: INFO: Creating Directory; artifacts]
+[2024-03-24 23:57:07,236: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 23:57:07,236: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 23:57:10,757: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 23:57:10,766: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 23:57:10,774: INFO: Creating Directory; artifacts]
+[2024-03-24 23:57:10,774: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 23:57:10,783: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-24 23:59:18,439: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-24 23:59:18,449: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-24 23:59:18,452: INFO: Creating Directory; artifacts]
+[2024-03-24 23:59:18,458: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-24 23:59:18,463: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:00:11,266: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:00:11,274: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:00:11,286: INFO: Creating Directory; artifacts]
+[2024-03-25 00:00:11,286: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:00:11,286: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:01:57,679: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:01:57,687: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:01:57,687: INFO: Creating Directory; artifacts]
+[2024-03-25 00:01:57,695: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:01:57,695: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:01:57,704: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:02:03,257: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:14:21,007: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:14:21,007: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:14:21,020: INFO: Creating Directory; artifacts]
+[2024-03-25 00:14:21,020: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 00:14:26,083: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-25 00:14:28,418: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-25 00:17:20,590: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:17:20,608: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:17:20,608: INFO: Creating Directory; artifacts]
+[2024-03-25 00:17:20,616: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:17:20,616: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:18:30,949: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:18:30,965: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:18:30,965: INFO: Creating Directory; artifacts]
+[2024-03-25 00:18:30,973: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:18:30,973: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:18:30,982: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:18:31,642: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:21:05,873: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:21:05,885: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:21:05,885: INFO: Creating Directory; artifacts]
+[2024-03-25 00:21:05,885: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:21:05,898: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:21:05,898: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:21:06,465: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:23:01,140: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:23:01,153: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:23:01,153: INFO: Creating Directory; artifacts]
+[2024-03-25 00:23:01,165: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:23:01,173: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:23:01,173: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:23:01,833: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:29:19,530: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:29:19,547: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:29:19,549: INFO: Creating Directory; artifacts]
+[2024-03-25 00:29:19,549: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:29:19,549: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:29:19,564: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:29:20,122: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:30:54,887: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:30:54,897: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:30:54,905: INFO: Creating Directory; artifacts]
+[2024-03-25 00:30:54,914: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:30:54,914: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:30:54,914: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:30:55,548: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 00:44:19,741: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-25 00:52:14,419: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:52:14,437: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:52:14,441: INFO: Creating Directory; artifacts]
+[2024-03-25 00:52:14,445: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 00:54:14,870: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 00:54:14,919: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 00:54:14,924: INFO: Creating Directory; artifacts]
+[2024-03-25 00:54:14,928: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 00:54:14,952: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 00:54:14,958: INFO: Creating Directory; artifacts\training]
+[2024-03-25 00:54:16,968: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-25 01:08:53,628: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-25 01:21:36,986: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:21:37,011: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:21:37,016: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:21:37,016: INFO: Creating Directory; artifacts]
+[2024-03-25 01:21:37,021: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:22:01,772: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 00:21:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13822-CPT
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711326102.211051,VS0,VE1284
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5bddd3609c6820c73b786b5ce8cc60552cf52a19
+Expires: Mon, 25 Mar 2024 00:26:43 GMT
+Source-Age: 1
+
+]
+[2024-03-25 01:22:03,051: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:22:03,051: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:22:03,066: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:22:03,077: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:22:03,080: INFO: Creating Directory; artifacts]
+[2024-03-25 01:22:03,099: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:22:10,337: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:22:10,342: INFO: *******************]
+[2024-03-25 01:22:10,342: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:22:10,353: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:22:10,363: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:22:10,366: INFO: Creating Directory; artifacts]
+[2024-03-25 01:22:10,368: ERROR: name 'os' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 36, in <module>
+    model_trainer.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 17, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\config\configuration.py", line 57, in get_prepare_callback_config
+    model_ckpt_dir = os.path.dirname(config.checkpoint_model_filepath)
+                     ^^
+NameError: name 'os' is not defined
+[2024-03-25 01:23:17,320: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:23:17,335: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:23:17,335: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:23:17,335: INFO: Creating Directory; artifacts]
+[2024-03-25 01:23:17,335: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:23:33,326: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 00:23:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13826-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711326202.538171,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 48623c93e002311f32c0f44c005fa5d22ae37da0
+Expires: Mon, 25 Mar 2024 00:28:21 GMT
+Source-Age: 99
+
+]
+[2024-03-25 01:23:34,500: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:23:34,500: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:23:34,510: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:23:34,534: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:23:34,552: INFO: Creating Directory; artifacts]
+[2024-03-25 01:23:34,573: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:23:38,205: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:23:38,205: INFO: *******************]
+[2024-03-25 01:23:38,220: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:23:38,220: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:23:38,229: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:23:38,230: INFO: Creating Directory; artifacts]
+[2024-03-25 01:23:38,275: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:23:38,283: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:23:38,283: ERROR: The filepath provided must end in `.keras` (Keras model format). Received: filepath=artifacts\prepare_callbacks\checkpoint_dir\model.h5]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 36, in <module>
+    model_trainer.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 19, in main
+    callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 42, in get_tb_ckpt_callbacks
+    self._create_ckpt_callbacks
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 33, in _create_ckpt_callbacks
+    return tf.keras.callbacks.ModelCheckpoint(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\callbacks\model_checkpoint.py", line 191, in __init__
+    raise ValueError(
+ValueError: The filepath provided must end in `.keras` (Keras model format). Received: filepath=artifacts\prepare_callbacks\checkpoint_dir\model.h5
+[2024-03-25 01:26:07,249: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:26:07,273: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:26:07,279: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:26:07,282: INFO: Creating Directory; artifacts]
+[2024-03-25 01:26:07,284: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:26:07,284: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 01:26:08,174: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:26:08,174: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:26:08,189: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:26:08,196: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:26:08,199: INFO: Creating Directory; artifacts]
+[2024-03-25 01:26:08,199: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:26:11,730: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:26:11,730: INFO: *******************]
+[2024-03-25 01:26:11,730: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:26:11,730: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:26:11,761: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:26:11,766: INFO: Creating Directory; artifacts]
+[2024-03-25 01:26:11,778: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:26:11,780: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:26:11,782: INFO: Creating Directory; artifacts\training]
+[2024-03-25 01:26:11,782: ERROR: [Errno 2] Unable to synchronously open file (unable to open file: name = 'artifacts\prepare_base_model\base_model_updated.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 36, in <module>
+    model_trainer.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 24, in main
+    training.get_base_model()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\training.py", line 11, in get_base_model
+    self.model = tf.keras.models.load_model(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\saving\saving_api.py", line 183, in load_model
+    return legacy_h5_format.load_model_from_hdf5(filepath)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 116, in load_model_from_hdf5
+    f = h5py.File(filepath, mode="r")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\h5py\_hl\files.py", line 562, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, fcpl, swmr=swmr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\h5py\_hl\files.py", line 235, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py\h5f.pyx", line 102, in h5py.h5f.open
+FileNotFoundError: [Errno 2] Unable to synchronously open file (unable to open file: name = 'artifacts\prepare_base_model\base_model_updated.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+[2024-03-25 01:26:57,848: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:26:57,863: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:26:57,870: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:26:57,872: INFO: Creating Directory; artifacts]
+[2024-03-25 01:26:57,874: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:27:22,993: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 00:27:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13828-CPT
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1711326426.633063,VS0,VE300
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 417419cd5be44144ecc73e27a726503ecd087dd0
+Expires: Mon, 25 Mar 2024 00:32:05 GMT
+Source-Age: 0
+
+]
+[2024-03-25 01:27:23,924: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:27:23,930: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:27:23,930: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:27:23,942: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:27:23,943: INFO: Creating Directory; artifacts]
+[2024-03-25 01:27:23,945: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:27:26,912: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:27:26,927: INFO: *******************]
+[2024-03-25 01:27:26,927: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:27:26,940: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:27:26,943: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:27:26,945: INFO: Creating Directory; artifacts]
+[2024-03-25 01:27:26,950: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:27:26,950: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:27:26,950: INFO: Creating Directory; artifacts\training]
+[2024-03-25 01:27:26,962: ERROR: [Errno 2] Unable to synchronously open file (unable to open file: name = 'artifacts\prepare_base_model\base_model_updated.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 36, in <module>
+    model_trainer.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 24, in main
+    training.get_base_model()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\training.py", line 11, in get_base_model
+    self.model = tf.keras.models.load_model(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\saving\saving_api.py", line 183, in load_model
+    return legacy_h5_format.load_model_from_hdf5(filepath)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 116, in load_model_from_hdf5
+    f = h5py.File(filepath, mode="r")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\h5py\_hl\files.py", line 562, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, fcpl, swmr=swmr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\h5py\_hl\files.py", line 235, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py\h5f.pyx", line 102, in h5py.h5f.open
+FileNotFoundError: [Errno 2] Unable to synchronously open file (unable to open file: name = 'artifacts\prepare_base_model\base_model_updated.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+[2024-03-25 01:31:49,514: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:31:49,535: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:31:49,538: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:31:49,541: INFO: Creating Directory; artifacts]
+[2024-03-25 01:31:49,542: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:31:49,548: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 01:31:50,591: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:31:50,601: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:31:50,619: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:31:50,630: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:31:50,635: INFO: Creating Directory; artifacts]
+[2024-03-25 01:31:50,641: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:31:53,685: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:31:53,685: INFO: *******************]
+[2024-03-25 01:31:53,685: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:31:53,702: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:31:53,706: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:31:53,708: INFO: Creating Directory; artifacts]
+[2024-03-25 01:31:53,710: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:31:53,711: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:31:53,712: INFO: Creating Directory; artifacts\training]
+[2024-03-25 01:35:35,993: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:35:36,010: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:35:36,014: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:35:36,016: INFO: Creating Directory; artifacts]
+[2024-03-25 01:35:36,018: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:35:47,088: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 00:35:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13826-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711326941.975684,VS0,VE295
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d7934c81d1ac71ded490cce246367c9e412a29dd
+Expires: Mon, 25 Mar 2024 00:40:41 GMT
+Source-Age: 0
+
+]
+[2024-03-25 01:35:48,686: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:35:48,701: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:35:48,756: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:35:48,801: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:35:48,820: INFO: Creating Directory; artifacts]
+[2024-03-25 01:35:48,857: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:35:53,211: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:35:53,214: INFO: *******************]
+[2024-03-25 01:35:53,215: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:35:53,219: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:35:53,226: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:35:53,230: INFO: Creating Directory; artifacts]
+[2024-03-25 01:35:53,234: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:35:53,241: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:35:53,251: ERROR: The filepath provided must end in `.keras` (Keras model format). Received: filepath=artifacts\prepare_callbacks\checkpoint_dir\model.h5]
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 36, in <module>
+    model_trainer.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 19, in main
+    callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 42, in get_tb_ckpt_callbacks
+    self._create_ckpt_callbacks
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 33, in _create_ckpt_callbacks
+    return tf.keras.callbacks.ModelCheckpoint(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\keras\src\callbacks\model_checkpoint.py", line 191, in __init__
+    raise ValueError(
+ValueError: The filepath provided must end in `.keras` (Keras model format). Received: filepath=artifacts\prepare_callbacks\checkpoint_dir\model.h5
+[2024-03-25 01:40:25,171: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:40:25,187: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:40:25,205: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:40:25,208: INFO: Creating Directory; artifacts]
+[2024-03-25 01:40:25,209: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 01:40:39,320: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 00:40:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13825-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711327229.432368,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ae5fba096b58121820371d63172bf7913fe36903
+Expires: Mon, 25 Mar 2024 00:45:29 GMT
+Source-Age: 288
+
+]
+[2024-03-25 01:40:40,257: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:40:40,263: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 01:40:40,273: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:40:40,288: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:40:40,289: INFO: Creating Directory; artifacts]
+[2024-03-25 01:40:40,291: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 01:40:43,957: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 01:40:43,964: INFO: *******************]
+[2024-03-25 01:40:43,965: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 01:40:43,974: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:40:43,978: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:40:43,980: INFO: Creating Directory; artifacts]
+[2024-03-25 01:40:43,983: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 01:40:43,987: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 01:40:43,999: INFO: Creating Directory; artifacts\training]
+[2024-03-25 01:52:09,591: INFO: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-25 01:52:58,501: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:52:58,510: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:52:58,514: INFO: Creating Directory; artifacts]
+[2024-03-25 01:53:39,387: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:53:39,404: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:53:39,414: INFO: Creating Directory; artifacts]
+[2024-03-25 01:57:41,167: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 01:57:41,178: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 01:57:41,184: INFO: Creating Directory; artifacts]
+[2024-03-25 02:03:41,079: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:03:41,079: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:03:41,079: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:03:41,079: INFO: Creating Directory; artifacts]
+[2024-03-25 02:03:41,079: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:03:41,079: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 02:03:42,195: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:03:42,207: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:03:42,299: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:03:42,318: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:03:42,321: INFO: Creating Directory; artifacts]
+[2024-03-25 02:03:42,322: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 02:03:48,097: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:03:48,099: INFO: *******************]
+[2024-03-25 02:03:48,099: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 02:03:48,106: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:03:48,115: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:03:48,117: INFO: Creating Directory; artifacts]
+[2024-03-25 02:03:48,119: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 02:03:48,121: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 02:03:48,123: INFO: Creating Directory; artifacts\training]
+[2024-03-25 02:05:44,349: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:05:44,349: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:05:44,373: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:05:44,379: INFO: Creating Directory; artifacts]
+[2024-03-25 02:05:44,440: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:05:52,578: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 01:05:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13824-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711328749.493458,VS0,VE289
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: cedcf551f71e9aba1d3fda61e3dce75b40cfea3f
+Expires: Mon, 25 Mar 2024 01:10:49 GMT
+Source-Age: 0
+
+]
+[2024-03-25 02:05:53,546: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:05:53,548: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:05:53,561: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:05:53,570: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:05:53,573: INFO: Creating Directory; artifacts]
+[2024-03-25 02:05:53,593: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 02:05:57,038: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:05:57,039: INFO: *******************]
+[2024-03-25 02:05:57,040: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 02:05:57,045: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:05:57,054: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:05:57,056: INFO: Creating Directory; artifacts]
+[2024-03-25 02:05:57,059: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 02:05:57,061: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 02:05:57,076: INFO: Creating Directory; artifacts\training]
+[2024-03-25 02:15:24,808: INFO: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-25 02:15:24,808: INFO: *******************]
+[2024-03-25 02:15:24,808: INFO: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-03-25 02:15:24,820: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:15:24,825: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:15:24,826: INFO: Creating Directory; artifacts]
+[2024-03-25 02:16:24,718: ERROR: JSONEncoder.__init__() got an unexpected keyword argument 'index']
+Traceback (most recent call last):
+  File "C:\Users\Nazbeen-Ai\Documents\My Projects\Machine Learning Projects\End To End Chickens-desease-Classification\main.py", line 51, in <module>
+    model_evalution.main()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\pipeline\stage_04_evaluation.py", line 20, in main
+    evaluation.save_score()
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\components\evaluation.py", line 51, in save_score
+    save_json(path=Path("scores.json"), data=scores)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\site-packages\ensure\main.py", line 835, in __call__
+    return self.f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\nazbeen-ai\documents\my projects\machine learning projects\end to end chickens-desease-classification\src\cnnClassifier\utils\common.py", line 63, in save_json
+    json.dump(data, f, index=4)
+  File "C:\Users\Nazbeen-Ai\anaconda3\envs\chicken\Lib\json\__init__.py", line 173, in dump
+    iterable = cls(skipkeys=skipkeys, ensure_ascii=ensure_ascii,
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONEncoder.__init__() got an unexpected keyword argument 'index'
+[2024-03-25 02:18:27,069: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:18:27,081: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:18:27,084: INFO: Creating Directory; artifacts]
+[2024-03-25 02:21:32,996: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:21:33,005: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:21:33,010: INFO: Creating Directory; artifacts]
+[2024-03-25 02:22:43,090: INFO: json file: scores.json saved successfully]
+[2024-03-25 02:24:31,442: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:24:31,442: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:24:31,442: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:24:31,452: INFO: Creating Directory; artifacts]
+[2024-03-25 02:24:31,452: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:24:37,902: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 01:24:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13825-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711329876.641150,VS0,VE309
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6cbc428901a43caf39e0c31a91b5b0b5f1b63fc8
+Expires: Mon, 25 Mar 2024 01:29:35 GMT
+Source-Age: 0
+
+]
+[2024-03-25 02:24:38,857: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:28:51,623: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:28:51,648: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:28:51,655: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:28:51,658: INFO: Creating Directory; artifacts]
+[2024-03-25 02:28:51,666: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:28:51,666: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 02:28:52,554: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:34:48,221: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:34:48,237: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:34:48,291: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:34:48,292: INFO: Creating Directory; artifacts]
+[2024-03-25 02:34:48,294: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:34:55,310: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 01:34:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13820-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711330492.202695,VS0,VE309
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0930abaa1c09daa01f266885d9d10022828a9dad
+Expires: Mon, 25 Mar 2024 01:39:52 GMT
+Source-Age: 0
+
+]
+[2024-03-25 02:34:56,521: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:34:56,521: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:34:56,532: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:34:56,532: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:34:56,532: INFO: Creating Directory; artifacts]
+[2024-03-25 02:34:56,540: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 02:35:01,113: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:35:01,113: INFO: *******************]
+[2024-03-25 02:35:01,113: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 02:35:01,121: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:35:01,127: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:35:01,129: INFO: Creating Directory; artifacts]
+[2024-03-25 02:35:01,171: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 02:35:01,191: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 02:35:01,191: INFO: Creating Directory; artifacts\training]
+[2024-03-25 02:44:03,431: INFO: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-25 02:44:03,431: INFO: *******************]
+[2024-03-25 02:44:03,431: INFO: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-03-25 02:44:03,447: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:44:03,454: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:44:03,456: INFO: Creating Directory; artifacts]
+[2024-03-25 02:44:55,275: INFO: json file: scores.json saved successfully]
+[2024-03-25 02:44:55,277: INFO: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-03-25 02:46:46,086: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:46:46,094: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:46:46,108: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:46:46,115: INFO: Creating Directory; artifacts]
+[2024-03-25 02:46:46,119: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:46:46,124: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 02:46:47,308: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:47:45,464: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:47:45,464: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:47:45,464: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:47:45,464: INFO: Creating Directory; artifacts]
+[2024-03-25 02:47:45,464: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:47:45,477: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 02:47:46,558: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 02:50:47,713: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 02:50:47,730: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 02:50:47,730: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 02:50:47,730: INFO: Creating Directory; artifacts]
+[2024-03-25 02:50:47,730: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 02:50:54,030: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 56B4:1821D6:29292A:43CB10:6600C396
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 01:50:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13825-CPT
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1711331452.869432,VS0,VE343
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1f803d346f01914f24f25860e5309151607418e2
+Expires: Mon, 25 Mar 2024 01:55:52 GMT
+Source-Age: 0
+
+]
+[2024-03-25 02:50:54,935: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 08:47:31,266: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 08:47:31,266: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 08:47:31,266: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 08:47:31,266: INFO: Creating Directory; artifacts]
+[2024-03-25 08:47:31,266: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 08:47:31,266: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 08:47:32,115: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:20:19,069: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:20:19,069: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:20:19,090: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:20:19,090: INFO: Creating Directory; artifacts]
+[2024-03-25 09:20:19,102: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:20:19,114: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:20:19,978: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:24:11,181: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:24:11,197: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:24:11,206: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:24:11,206: INFO: Creating Directory; artifacts]
+[2024-03-25 09:24:11,206: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:24:11,213: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:24:12,019: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:25:22,218: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:25:22,218: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:25:22,235: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:25:22,235: INFO: Creating Directory; artifacts]
+[2024-03-25 09:25:22,235: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:25:22,235: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:25:23,036: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:36:13,495: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:36:13,495: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:36:13,495: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:36:13,495: INFO: Creating Directory; artifacts]
+[2024-03-25 09:36:13,495: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:36:13,512: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:36:14,291: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:45:19,473: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:45:19,488: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:45:19,488: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:45:19,488: INFO: Creating Directory; artifacts]
+[2024-03-25 09:45:19,488: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:45:19,488: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:45:20,536: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:46:23,819: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:46:23,835: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:46:23,835: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:46:23,835: INFO: Creating Directory; artifacts]
+[2024-03-25 09:46:23,835: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:46:23,835: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:46:24,599: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:47:07,442: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:47:07,442: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:47:07,457: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:47:07,457: INFO: Creating Directory; artifacts]
+[2024-03-25 09:47:07,457: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:47:32,670: INFO: artifacts/data_ingestion/data.zip Download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B2AA:97890:336C7:5529A:66013A0E
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 08:47:12 GMT
+Via: 1.1 varnish
+X-Served-By: cache-cpt13822-CPT
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711356432.664259,VS0,VE1083
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4c3e623724c33a563ef0a4fb010b86d5445b68bf
+Expires: Mon, 25 Mar 2024 08:52:12 GMT
+Source-Age: 1
+
+]
+[2024-03-25 09:47:33,635: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:48:39,889: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:48:39,889: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:48:39,889: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:48:39,889: INFO: Creating Directory; artifacts]
+[2024-03-25 09:48:39,905: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:48:39,905: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:48:40,741: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 09:53:53,620: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 09:53:53,635: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 09:53:53,635: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 09:53:53,635: INFO: Creating Directory; artifacts]
+[2024-03-25 09:53:53,635: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 09:53:53,635: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 09:53:54,473: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 10:01:38,421: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 10:01:38,421: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:01:38,437: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:01:38,437: INFO: Creating Directory; artifacts]
+[2024-03-25 10:01:38,437: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 10:01:38,437: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 10:01:39,295: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 10:01:56,401: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 10:01:56,401: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:01:56,401: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:01:56,416: INFO: Creating Directory; artifacts]
+[2024-03-25 10:01:56,416: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 10:01:56,416: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 10:01:57,278: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 10:04:17,975: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 10:04:17,975: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:04:17,985: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:04:17,985: INFO: Creating Directory; artifacts]
+[2024-03-25 10:04:17,985: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 10:04:17,985: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 10:04:19,042: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 10:04:19,065: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 10:04:19,075: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:04:19,080: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:04:19,083: INFO: Creating Directory; artifacts]
+[2024-03-25 10:04:19,083: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-25 10:04:23,374: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-25 10:04:23,374: INFO: *******************]
+[2024-03-25 10:04:23,374: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-25 10:04:23,389: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:04:23,405: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:04:23,405: INFO: Creating Directory; artifacts]
+[2024-03-25 10:04:23,405: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-25 10:04:23,405: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-25 10:04:23,421: INFO: Creating Directory; artifacts\training]
+[2024-03-25 10:14:35,903: INFO: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-25 10:14:35,903: INFO: *******************]
+[2024-03-25 10:14:35,903: INFO: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-03-25 10:14:35,919: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:14:35,934: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:14:35,934: INFO: Creating Directory; artifacts]
+[2024-03-25 10:15:21,954: INFO: json file: scores.json saved successfully]
+[2024-03-25 10:15:21,954: INFO: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-03-25 10:16:02,854: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-25 10:16:02,866: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 10:16:02,866: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-25 10:16:02,866: INFO: Creating Directory; artifacts]
+[2024-03-25 10:16:02,866: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-25 10:16:02,874: INFO: File already exists of size: 11345.00 kb]
+[2024-03-25 10:16:04,125: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
