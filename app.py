@@ -25,7 +25,7 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/predict', methods=['POST', 'GET'])
+@app.route('/training', methods=['POST', 'GET'])
 @cross_origin()
 def trainingRoute():
     os.system("python main.py")
@@ -35,9 +35,10 @@ def trainingRoute():
 @cross_origin()
 def predictionRoute():
     image = request.json['image']
-    decodeImage(image, ClientApp.filename)
-    result = ClientApp.classifier.predict()
+    decodeImage(image, clApp.filename)
+    result = clApp.classifier.predict()
     return jsonify(result)
 
 if __name__ == '__main__':
+    clApp = ClientApp()
     app.run(debug=True)
