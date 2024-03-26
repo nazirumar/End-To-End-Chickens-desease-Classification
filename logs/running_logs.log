@@ -1348,3 +1348,47 @@ x==========x]
 [2024-03-25 10:16:04,125: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
 
 x==========x]
+[2024-03-26 09:19:57,707: INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-03-26 09:19:57,732: INFO: [33mPress CTRL+C to quit[0m]
+[2024-03-26 09:19:57,747: INFO:  * Restarting with stat]
+[2024-03-26 09:20:09,555: WARNING:  * Debugger is active!]
+[2024-03-26 09:20:09,578: INFO:  * Debugger PIN: 144-600-982]
+[2024-03-26 09:20:09,723: INFO: 127.0.0.1 - - [26/Mar/2024 09:20:09] "GET / HTTP/1.1" 200 -]
+[2024-03-26 09:20:56,940: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-26 09:20:57,018: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 09:20:57,063: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-26 09:20:57,063: INFO: Creating Directory; artifacts]
+[2024-03-26 09:20:57,063: INFO: Creating Directory; artifacts/data_ingestion]
+[2024-03-26 09:20:57,078: INFO: File already exists of size: 11345.00 kb]
+[2024-03-26 09:20:58,537: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-26 09:20:58,537: INFO: >>>>>>>> stage Data Ingestion stage started <<<<<<<<<<]
+[2024-03-26 09:20:58,547: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 09:20:58,578: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-26 09:20:58,578: INFO: Creating Directory; artifacts]
+[2024-03-26 09:20:58,578: INFO: Creating Directory; artifacts/prepare_base_model]
+[2024-03-26 09:21:13,243: INFO: >>>>>>>> stage Data Ingestion stage completed <<<<<<<<<<
+
+x==========x]
+[2024-03-26 09:21:13,259: INFO: *******************]
+[2024-03-26 09:21:13,262: INFO: >>>>>> stage Training started <<<<<<]
+[2024-03-26 09:21:13,278: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 09:21:13,279: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-26 09:21:13,286: INFO: Creating Directory; artifacts]
+[2024-03-26 09:21:13,293: INFO: Creating Directory; artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-26 09:21:13,293: INFO: Creating Directory; artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-26 09:21:13,299: INFO: Creating Directory; artifacts\training]
+[2024-03-26 09:31:37,916: INFO: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-26 09:31:37,916: INFO: *******************]
+[2024-03-26 09:31:37,916: INFO: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-03-26 09:31:37,943: INFO: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 09:31:37,951: INFO: yaml file: params.yaml loaded successfully]
+[2024-03-26 09:31:37,951: INFO: Creating Directory; artifacts]
+[2024-03-26 09:32:36,467: INFO: json file: scores.json saved successfully]
+[2024-03-26 09:32:36,471: INFO: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
